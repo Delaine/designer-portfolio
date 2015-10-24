@@ -9,7 +9,7 @@ url: "http://example.com" # the base hostname & protocol for your site
 
 twitter_username: Delaine
 github_username:  Delaine
-google_username:  Delaine
+google_username:  
 
 permalink: /:categories/:title
 
