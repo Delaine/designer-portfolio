@@ -3,6 +3,7 @@ layout: post
 title:  "Strepitum fuit"
 date:   2015-10-23 10:40:07
 categories: jekyll update
+featured: true
 ---
 
 ## Nigris magnas
