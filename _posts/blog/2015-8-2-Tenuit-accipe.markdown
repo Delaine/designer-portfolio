@@ -2,7 +2,7 @@
 layout: post
 title:  "Tenuit accipe"
 date:   2015-8-2 10:40:07
-categories: jekyll update
+categories: blog
 tags: code
 ---
 

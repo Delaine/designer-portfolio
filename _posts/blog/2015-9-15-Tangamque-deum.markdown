@@ -2,7 +2,7 @@
 layout: post
 title:  "Tangamque deum"
 date:   2015-9-15 10:40:07
-categories: jekyll update
+categories: blog
 tags: code inspiration
 ---
 
