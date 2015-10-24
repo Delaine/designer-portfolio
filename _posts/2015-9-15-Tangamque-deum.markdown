@@ -3,6 +3,7 @@ layout: post
 title:  "Tangamque deum"
 date:   2015-9-15 10:40:07
 categories: jekyll update
+tags: code inspiration
 ---
 
 ## Te limen silvis et neque mactatos Dixerat

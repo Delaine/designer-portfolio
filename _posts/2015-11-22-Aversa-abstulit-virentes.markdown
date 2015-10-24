@@ -3,6 +3,7 @@ layout: post
 title:  "Aversa abstulit virentes"
 date:   2015-11-22 10:40:07
 categories: jekyll update
+tags: snippet
 ---
 
 ## Dolores finxit gramen
